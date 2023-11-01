@@ -10,4 +10,4 @@ There is also a research paper attached which worked on PDC.
 
 The PDC software was developed to run parallel bucket sorts.<br>
 
-Reports with tables and comparisons are also attached.
+Reports with tables and comparisons are also attached.<br>
