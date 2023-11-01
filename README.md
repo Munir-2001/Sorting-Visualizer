@@ -8,6 +8,6 @@ Download this for the version and run it on the python shell.
 There is also a research paper attached which worked on PDC.
 <br>
 
-The PDC software was developed to run parallel bucket sorts.
+The PDC software was developed to run parallel bucket sorts.<br>
 
 Reports with tables and comparisons are also attached.
