@@ -1,6 +1,6 @@
 # Sorting-Visualizer
 <br>
-This is a sorting visualizer in python using Tkinter.
+This is a sorting visualizer in python using Tkinter.<br>
 Download this for the version and run it on the python shell.
 
 There is also a research paper attached which worked on PDC.
